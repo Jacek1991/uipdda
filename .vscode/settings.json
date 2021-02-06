@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/96d8824f-be92-455c-a3ce-ccb25d366a0a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/carsAppJacek",
+    "appService.deploySubpath": "."
+}
